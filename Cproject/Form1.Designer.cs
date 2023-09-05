@@ -403,7 +403,7 @@
             this.Controls.Add(this.rollBtn);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Shut the box - Blake Green";
+            this.Text = "Shut the box - Zoey Nova";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.DoubleClick += new System.EventHandler(this.Form1_DoubleClick);
             this.ResumeLayout(false);
